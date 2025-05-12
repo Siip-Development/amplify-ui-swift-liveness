@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Siip-Development/amplify-swift",
       "state" : {
-        "revision" : "fdf4774de9bd1590b77771fa35067ca248c48465",
-        "version" : "2.47.0-custom-v2"
+        "revision" : "39bf5c9ab7ddc3f1eac33f70bcb2e013e21619dd",
+        "version" : "2.47.0-custom-v3"
       }
     },
     {
